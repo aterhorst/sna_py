@@ -10,6 +10,7 @@ import pylab
 
 matplotlib.style.use('seaborn-dark')
 
+
 kp = nx.readwrite.gexf.read_gexf('/Users/aterhorst/ownCloud/Innovation Network Analysis/Case studies/HF/knowledge.provider.net.gexf')
 #ekp = nx.readwrite.gexf.read_gexf('/Users/ter053/ownCloud/Innovation Network Analysis/Case studies/HF/explicit.knowledge.net.gexf')
 #tkp = nx.readwrite.gexf.read_gexf('/Users/ter053/ownCloud/Innovation Network Analysis/Case studies/HF/tacit.knowledge.net.gexf')
